@@ -109,7 +109,7 @@
     "cosmiconfig": "^8.2.0",
     "dotenv": "^16.1.4",
     "fast-glob": "^3.2.12",
-    "inquirer": "8.2.5",
+    "inquirer": "8.2.6",
     "lodash": "^4.17.21",
     "log-symbols": "4.1.0",
     "open": "8.4.2",
