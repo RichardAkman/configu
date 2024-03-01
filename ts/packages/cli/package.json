@@ -95,7 +95,7 @@
     "configu-cli"
   ],
   "dependencies": {
-    "@configu/lib": "^0.6.1",
+    "@configu/lib": "^0.7.1",
     "@configu/node": "^0.15.0",
     "@configu/ts": "^0.13.0",
     "@oclif/core": "^2.8.6",
