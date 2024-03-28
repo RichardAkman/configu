@@ -1,4 +1,4 @@
-FROM node:18.15.0-alpine
+FROM node:18.19.1-alpine
 
 RUN apk --no-cache add bash curl &&\
   curl https://cli.configu.com/install.sh | sh &&\
